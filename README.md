@@ -8,5 +8,5 @@ This app has everything you would expect in a calculator.
 3. Equation Preview. (located above result)
 
 
-## Minimal and sleek design in dark theme
+## Minimal & Sleek Design in Dark Theme
 ![download (1)](https://user-images.githubusercontent.com/47125700/168927517-17d049b5-7b0b-4561-811c-15cb3c1861ae.png)![download](https://user-images.githubusercontent.com/47125700/168926832-239986e7-3e24-411c-96bc-d73719c196c6.png)
