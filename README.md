@@ -5,7 +5,7 @@ A simple functional calculator app featuring beautiful, minimalistic and sleek U
 This app has everything you would expect in a calculator. 
 1. Math functions : Add, Minus, Multiply, Divide, Remainder, Decimal point.
 2. Basic functions : Single delete(tap 'C'), line delete (hold 'C')
-3. Formula preview above result
+3. Equation Preview. (located above result)
 
 
 ## Minimal and sleek design in dark theme
