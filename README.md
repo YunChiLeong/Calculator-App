@@ -1,4 +1,4 @@
-# Calculator-App
+# Modern-Calculator-App
 A simple functional calculator app featuring beautiful, minimalistic and sleek UI/UX design. 
 
 ## Features
